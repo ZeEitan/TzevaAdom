@@ -1,0 +1,25 @@
+{
+  "name": "tzevaadomapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ZeEitan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "ws": "^8.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeEitan/TzevaAdom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZeEitan/TzevaAdom/issues"
+  },
+  "homepage": "https://github.com/ZeEitan/TzevaAdom#readme",
+  "description": ""
+}
